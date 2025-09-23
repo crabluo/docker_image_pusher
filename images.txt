@@ -1,2 +1,2 @@
 #ghcr.io/sozercan/llama3.1:8b
-jippi/pritunl
+mongo:4.4

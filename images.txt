@@ -1,7 +1,11 @@
 #ghcr.io/sozercan/llama3.1:8b
+
 #夜莺镜像
 mysql:8
 redis:6.2
 victoriametrics/victoria-metrics:v1.79.12
 flashcatcloud/nightingale:latest
 flashcatcloud/categraf:latest
+
+#pritunl
+pritunl/pritunl:latest

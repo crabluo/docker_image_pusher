@@ -1,4 +1,5 @@
 #ghcr.io/sozercan/llama3.1:8b
 #mongo:4.4
 #jenkinsci/blueocean
-mysql:5.7
+#mysql:5.7
+rancher/rancher:head

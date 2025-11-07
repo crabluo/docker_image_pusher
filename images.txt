@@ -3,4 +3,5 @@
 #jenkinsci/blueocean
 #mysql:5.7
 #rancher/rancher:head
-rancher/rancher:stable
+#rancher/rancher:stable
+rancher/shell:v0.5.0

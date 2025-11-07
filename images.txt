@@ -4,4 +4,5 @@
 #mysql:5.7
 #rancher/rancher:head
 #rancher/rancher:stable
-rancher/shell:v0.5.0
+#rancher/shell:v0.5.0
+rancher/rancher-agent:v2.12.3
